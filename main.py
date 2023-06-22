@@ -3,4 +3,5 @@ import calculate
 
 print ("Hello world");
 print(calculate.x);
-Print("GitHub")
+print("GitHub");
+print("Bye Bye");
